@@ -81,5 +81,41 @@ body{
 .donate-plan h1{
     font-size: 40px;
     font-weight: 800;
-    padding-top: 0px;
+    padding-top: 10px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding-top: 50px;
+    /* margin-top: 50px; */
+}
+.grid-single-item{
+    padding: 30px;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;  
+}
+.grid-single-item h5{
+    color:  rgb(192, 79, 56);
+    /* color: #8a8a8a; */
+    
+}
+.custom-icon-size{
+    font-size: 60px;
+}
+.food-family{
+    background-color: rgb(236, 233, 229);
+    border-radius: 9px;
+    margin: 15px;
+    
+}
+.shelter-family{
+    background-color: rgb(222, 203, 203);
+    border-radius: 9px;
+    margin: 15px;   
+}
+.education-child{
+    background-color: rgb(236, 233, 229);
+    border-radius: 9px;
+    margin: 15px;   
 }
