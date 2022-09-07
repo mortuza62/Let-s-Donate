@@ -9,6 +9,7 @@ body{
     background-image: url(/help1.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     text-align: center;
     color: white;
     /* color: purple; */
